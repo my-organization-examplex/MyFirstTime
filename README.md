@@ -1,10 +1,7 @@
 # MyFirstTime
 
-This is a really awesomw website
+This is a really awesome website
 
 Change it to example branch
 
-=
-Now editing on update-readme branch
-
-update locally
+Updates made on master on GitHub before rebase
